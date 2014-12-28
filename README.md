@@ -7,7 +7,7 @@ content of :
 
 `15.125.77.166/nginx-pagespeed/rebuildnginx/`
 
-
+````
 nginx-1.6.2                              nginx_2014.12-0ubuntu2-nginxubuntu1_source.build
 nginx_1.6.2-5+trusty0_all.deb            nginx-common_1.6.2-5+trusty0_all.deb
 nginx_1.6.2-5+trusty0_amd64.changes      nginx-doc_1.6.2-5+trusty0_all.deb
@@ -18,6 +18,8 @@ nginx_1.6.2-5+trusty0.dsc.sig            nginx-full-dbg_1.6.2-5+trusty0_amd64.de
 nginx_1.6.2-5+trusty0_source.build       nginx-light_1.6.2-5+trusty0_amd64.deb
 nginx_1.6.2-5+trusty0_source.changes     nginx-light-dbg_1.6.2-5+trusty0_amd64.deb
 nginx_1.6.2.orig.tar.gz
+
+````
 
 wget the required file, run :
     
