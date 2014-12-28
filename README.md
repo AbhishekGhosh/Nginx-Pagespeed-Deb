@@ -21,9 +21,12 @@ nginx_1.6.2.orig.tar.gz
 
 wget the required file, run :
     
-    ```` add-apt-repository ppa:nginx/stable
-         apt-get update -y
-         apt-get install nginx-common && sudo dpkg --install nginx-full_1.6.2-5+trusty0_amd64.deb ````
+```` 
+add-apt-repository ppa:nginx/stable
+apt-get update -y
+apt-get install nginx-common && sudo dpkg --install nginx-full_1.6.2-5+trusty0_amd64.deb 
+
+````
 
 It has all the stuffs like normal Ubuntu apt version of Nginx. Plus your Nginx.    
   
